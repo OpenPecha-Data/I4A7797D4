@@ -1,0 +1,26 @@
+id: I4A7797D4
+default_language: bo
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 18:00:32.015201+00:00
+last_modified: 2022-12-14 18:00:32.015209+00:00
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-059-006
+  eft-text-version: 1.0.1 2020
+  title: Toh_163-Questions_of_Ratnaj%C4%81lin-v2
+bases:
+  444F:
+    source_metadata: null
+    order: 1
+    base_file: 444F.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
